@@ -29,6 +29,7 @@ Free HTML CSS Template
 -->
 </head>
 <body>
+    <script src="//track.brightpathcleaningco.site/"></script>
     <!-- Header -->
     <header class="header">
         <div class="container header-inner">
